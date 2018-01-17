@@ -6,6 +6,6 @@ This folder is a summary of Split Bregman and Linearized Split Bregman applied t
 
 	'\lsbi-code' folder contains MATLAB code for linearized split bregman training algorithm.
 	
-	Reference: Training Neural Networks Without Gradients: A Scalable ADMM Approach. Gavin Taylor, Ryan Burmeister, Zheng Xu, Bharat Singh, Ankit Patel and Tom Goldstein https://arxiv.org/abs/1605.02026
+Reference: Training Neural Networks Without Gradients: A Scalable ADMM Approach. Gavin Taylor, Ryan Burmeister, Zheng Xu, Bharat Singh, Ankit Patel and Tom Goldstein https://arxiv.org/abs/1605.02026
 
-originally created by Ruohan ZHAN at: https://github.com/RuohanZhan/Neural-Network-Algorithm
+The repo is adapted from Ruohan ZHAN at: https://github.com/RuohanZhan/Neural-Network-Algorithm
