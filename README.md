@@ -1,4 +1,3 @@
-## RuohanZHAN-ADMMDNN
 # Ruohan ZHAN's project on ADMM/Split Bregman type training of Deep Neural Networks
 
 This folder is a summary of Split Bregman and Linearized Split Bregman applied to training neural network. Mnist dataset is tested.
